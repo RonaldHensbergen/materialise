@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/home/ronald/Projects/WeAreFrank/.venv/bin/python",
+    "python.formatting.provider": "black",
+    "python.analysis.typeCheckingMode": "basic"
+}
